@@ -20,6 +20,7 @@ export const data2 = {
                     "Fertilizers Recommendation Alternative 2": {
                         "NP Plus": "5.1",
                         Urea: "1.35",
+                        "SOP/MOP": "1",
                     },
                 },
                 "Medium Fertile": {
@@ -41,6 +42,7 @@ export const data2 = {
                     "Fertilizers Recommendation Alternative 2": {
                         "NP Plus": "3.8",
                         Urea: "1.35",
+                        "SOP/MOP": "1",
                     },
                 },
                 Fertile: {
@@ -61,6 +63,7 @@ export const data2 = {
                     "Fertilizers Recommendation Alternative 2": {
                         "NP Plus": "3.3",
                         Urea: "1.35",
+                        "SOP/MOP": "1",
                     },
                 },
                 "<350mm Rainfall": {
@@ -81,6 +84,7 @@ export const data2 = {
                     "Fertilizers Recommendation Alternative 2": {
                         "NP Plus": "2.6",
                         Urea: "1.35",
+                        "SOP/MOP": "0.5",
                     },
                 },
                 "350-600mm Rainfall": {
@@ -101,6 +105,7 @@ export const data2 = {
                     "Fertilizers Recommendation Alternative 2": {
                         "NP Plus": "3.1",
                         Urea: "1.35",
+                        "SOP/MOP": "0.5",
                     },
                 },
                 ">600mm Rainfall": {
@@ -121,6 +126,7 @@ export const data2 = {
                     "Fertilizers Recommendation Alternative 2": {
                         "NP Plus": "3.8",
                         Urea: "1.35",
+                        "SOP/MOP": "1",
                     },
                 },
             },
@@ -145,6 +151,7 @@ export const data2 = {
                     "Fertilizers Recommendation Alternative 2": {
                         "NP Plus": "4.4",
                         Urea: "1.35",
+                        "SOP/MOP": "1.5",
                     },
                 },
                 "Medium Fertile": {
@@ -166,6 +173,7 @@ export const data2 = {
                     "Fertilizers Recommendation Alternative 2": {
                         "NP Plus": "3.9",
                         Urea: "1.35",
+                        "SOP/MOP": "1.5",
                     },
                 },
                 Fertile: {
@@ -186,6 +194,7 @@ export const data2 = {
                     "Fertilizers Recommendation Alternative 2": {
                         "NP Plus": "3.3",
                         Urea: "1.35",
+                        "SOP/MOP": "1.5",
                     },
                 },
             },
@@ -210,6 +219,7 @@ export const data2 = {
                     "Fertilizers Recommendation Alternative 2": {
                         "NP Plus": "4.4",
                         Urea: "1.35",
+                        "SOP/MOP": "1.25",
                     },
                 },
                 "Medium Fertile": {
@@ -231,6 +241,7 @@ export const data2 = {
                     "Fertilizers Recommendation Alternative 2": {
                         "NP Plus": "3.9",
                         Urea: "1.35",
+                        "SOP/MOP": "1.25",
                     },
                 },
                 Fertile: {
@@ -251,6 +262,7 @@ export const data2 = {
                     "Fertilizers Recommendation Alternative 2": {
                         "NP Plus": "3.3",
                         Urea: "1.35",
+                        "SOP/MOP": "1.25",
                     },
                 },
             },
@@ -275,6 +287,7 @@ export const data2 = {
                     "Fertilizers Recommendation Alternative 2": {
                         "NP Plus": "7.7",
                         Urea: "1.35",
+                        "SOP/MOP": "2",
                     },
                 },
                 "Medium Fertile": {
@@ -296,6 +309,7 @@ export const data2 = {
                     "Fertilizers Recommendation Alternative 2": {
                         "NP Plus": "6.4",
                         Urea: "1.35",
+                        "SOP/MOP": "1.5",
                     },
                 },
                 Fertile: {
@@ -316,6 +330,7 @@ export const data2 = {
                     "Fertilizers Recommendation Alternative 2": {
                         "NP Plus": "5.1",
                         Urea: "1.35",
+                        "SOP/MOP": "1",
                     },
                 },
             },
@@ -340,6 +355,7 @@ export const data2 = {
                     "Fertilizers Recommendation Alternative 2": {
                         "NP Plus": "2.6",
                         Urea: "1.35",
+                        "SOP/MOP": "0.5",
                     },
                 },
                 ">600mm Rainfall": {
@@ -360,6 +376,7 @@ export const data2 = {
                     "Fertilizers Recommendation Alternative 2": {
                         "NP Plus": "3.8",
                         Urea: "1.35",
+                        "SOP/MOP": "1",
                     },
                 },
             },
@@ -384,6 +401,7 @@ export const data2 = {
                     "Fertilizers Recommendation Alternative 2": {
                         "NP Plus": "6.4",
                         Urea: "1.35",
+                        "SOP/MOP": "1",
                     },
                 },
                 "Medium Fertile": {
@@ -405,6 +423,7 @@ export const data2 = {
                     "Fertilizers Recommendation Alternative 2": {
                         "NP Plus": "5.1",
                         Urea: "1.35",
+                        "SOP/MOP": "1.5",
                     },
                 },
                 Fertile: {
@@ -425,6 +444,7 @@ export const data2 = {
                     "Fertilizers Recommendation Alternative 2": {
                         "NP Plus": "3.9",
                         Urea: "1.35",
+                        "SOP/MOP": "1",
                     },
                 },
             },
@@ -449,6 +469,7 @@ export const data2 = {
                     "Fertilizers Recommendation Alternative 2": {
                         "NP Plus": "7.7",
                         Urea: "1.35",
+                        "SOP/MOP": "2",
                     },
                 },
                 "Medium Fertile": {
@@ -470,6 +491,7 @@ export const data2 = {
                     "Fertilizers Recommendation Alternative 2": {
                         "NP Plus": "6.3",
                         Urea: "1.35",
+                        "SOP/MOP": "2",
                     },
                 },
                 Fertile: {
@@ -490,6 +512,7 @@ export const data2 = {
                     "Fertilizers Recommendation Alternative 2": {
                         "NP Plus": "5.1",
                         Urea: "1.35",
+                        "SOP/MOP": "2",
                     },
                 },
             },
@@ -514,6 +537,7 @@ export const data2 = {
                     "Fertilizers Recommendation Alternative 2": {
                         "NP Plus": "7.7",
                         Urea: "1.35",
+                        "SOP/MOP": "2",
                     },
                 },
                 "Medium Fertile": {
@@ -535,6 +559,7 @@ export const data2 = {
                     "Fertilizers Recommendation Alternative 2": {
                         "NP Plus": "6.3",
                         Urea: "1.35",
+                        "SOP/MOP": "2",
                     },
                 },
                 Fertile: {
@@ -555,6 +580,7 @@ export const data2 = {
                     "Fertilizers Recommendation Alternative 2": {
                         "NP Plus": "5.1",
                         Urea: "1.35",
+                        "SOP/MOP": "2",
                     },
                 },
             },
@@ -579,6 +605,7 @@ export const data2 = {
                     "Fertilizers Recommendation Alternative 2": {
                         "NP Plus": "5.6",
                         Urea: "1.35",
+                        "SOP/MOP": "2",
                     },
                 },
             },
@@ -604,6 +631,7 @@ export const data2 = {
                     "Fertilizers Recommendation Alternative 2": {
                         "NP Plus": "2.6",
                         Urea: "1.35",
+                        "SOP/MOP": "1.25",
                     },
                 },
                 "Medium Fertile (Hybrid)": {
@@ -625,6 +653,7 @@ export const data2 = {
                     "Fertilizers Recommendation Alternative 2": {
                         "NP Plus": "2.6",
                         Urea: "1.35",
+                        "SOP/MOP": "1.25",
                     },
                 },
                 "Fertile (Tunnel)": {
@@ -645,6 +674,7 @@ export const data2 = {
                     "Fertilizers Recommendation Alternative 2": {
                         "NP Plus": "5.1",
                         Urea: "1.35",
+                        "SOP/MOP": "4",
                     },
                 },
             },
@@ -670,6 +700,7 @@ export const data2 = {
                     "Fertilizers Recommendation Alternative 2": {
                         "NP Plus": "0.1",
                         Urea: "1.35",
+                        "SOP/MOP": "1",
                     },
                 },
             },
@@ -695,6 +726,7 @@ export const data2 = {
                     "Fertilizers Recommendation Alternative 2": {
                         "NP Plus": "0.3",
                         Urea: "1.35",
+                        "SOP/MOP": "1.5",
                     },
                 },
             },
